@@ -9,7 +9,7 @@ export default class Classic extends Component {
         <div>
           <Layout>
             <Header>Headerggggggggggggg</Header>
-            <Content>Content</Content>
+            <Content>Contensdfsdfgsdgfsdft</Content>
             <Footer>Footer</Footer>
           </Layout>
         </div>
